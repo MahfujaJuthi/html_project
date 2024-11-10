@@ -1,0 +1,81 @@
+#home{
+    background-image: url("image/building3.jpeg");
+    background-size: cover;      
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 400px; 
+    width: 100%;              
+}
+
+#about_us .row {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#about_bg_photo {
+    background-image: url('image/about.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+#service_bg_photo{
+    background-image: url('image/service_bg.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    width: 100%;
+    background-repeat: no-repeat;
+    margin: 10px;
+}
+#calling-card{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: -100px;
+    background-color: rgb(60, 60, 185);
+    color: white;
+}
+.card{
+    background-color: rgb(60, 60, 185);
+    color: white;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.home-text {
+    font-size: 5rem; 
+    font-weight: bold;
+    color: aliceblue; 
+}
+#projects{
+    min-height: 500px;
+}
+
+* #contact{
+    border: 2px solid white;
+    background-color: transparent;
+    padding: 20px;
+    width: 350px;
+    color: #fff;
+} *
+
+#text {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    width : 100%;
+}
